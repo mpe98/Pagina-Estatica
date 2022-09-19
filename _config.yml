@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: iMichael
 
 # Your name to show in the footer
-author: Some Person
+author: Michael Peter
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,8 +22,8 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Marca: "https://www.marca.com"
+    - As: "https://www.as.com/"
   Author's home: "https://deanattali.com"
 
 ################
