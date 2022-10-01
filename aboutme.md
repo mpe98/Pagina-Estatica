@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Habilidades y documentación de la página
 ---
 
 Mi nombre es Michael. Mis habilidades son:
@@ -9,7 +9,8 @@ Mi nombre es Michael. Mis habilidades son:
 - HTML/CSS
 - Java
 - PostgresSQL
+- Jekyll
 
-### Mi historia
+### Este sitio
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Esta página web estática se ha generado con el generador de páginas estáticas Jekyll. En la plantilla que genera automáticamente he cambiado el nombre, logo, colores,  
