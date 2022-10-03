@@ -15,10 +15,11 @@ Creada por iniciativa del diario L'Équipe bajo la denominación de Copa de Club
 El ganador de esta competición disputa la Supercopa de Europa contra el campeón de la Liga Europa —la segunda competición continental—, y como representante de la confederación, el Mundial de Clubes de la FIFA. El vigente campeón es el Real Madrid Club de Fútbol, tras vencer al Liverpool Football Club, siendo a su vez el conjunto más laureado con catorce títulos; mientras que la Federación Española es la que más campeonatos ha logrado con diecinueve, seguida por Inglaterra con catorce e Italia con doce.
 
 ## Clubs con más Champions
-| Club | Número de Champions |
-| :------ |:--- |
-| Real Madrid | 14 |
-| Milan | 7 |
-| Bayern | 6 |
-| Liverpool | 6 |
-| Barcelona | 5 |
+
+| Equipo | Títulos | País |
+| -- | -- | -- |
+| Real Madrid | 14 | España |
+| Milan | 7 | Italia |
+| Bayern | 6 | Alemania |
+| Liverpool | 6 | Inglaterra |
+| Barcelona | 5 | España |
