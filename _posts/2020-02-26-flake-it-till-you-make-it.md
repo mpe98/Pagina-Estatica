@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+title: Real Madrid C.F.
+subtitle: El mejor club del siglo XX
+cover-img: /assets/img/santiago-bernabeu.jpg
+thumbnail-img: /assets/img/escudo-real-madrid.png
+share-img: /assets/img/santiago-bernabeu.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+El Real Madrid escribió un nuevo capítulo en la historia del fútbol al ganar en 2022 la 14ª Copa de Europa. Nuestro equipo aumentó su hegemonía en esta competición frente al Liverpool en París. Unos meses después logró la quinta Supercopa de Europa ante el Eintracht en Helsinki. Los primeros títulos de la década fueron la 12ª Supercopa de España, ganada en la final contra el Athletic en Riad (Arabia Saudí), y la Liga 35, conquistada matemáticamente en la jornada 34 frente al Espanyol en el Santiago Bernabéu.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Con Ancelotti en el banquillo, el Real Madrid logró la 14ª Copa de Europa. En su segunda etapa en el club, el técnico italiano volvió a levantar el título continental en 2022 al ganar al Liverpool en la final de París. De esta manera cerró una espectacular temporada 2021/22 en la que primero se logró la 12ª Supercopa de España. Fue en una edición disputada en Arabia Saudí en enero de 2022. Primero, tuvo que vencer en la prórroga al Barcelona en la semifinal (2-3). Vini Jr., Benzema y Valverde fueron los goleadores, con el uruguayo haciendo el tanto decisivo. En la final, el rival fue el Athletic y los goles de Modrić y Benzema aseguraron el título para nuestro equipo (0-2).
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
-
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Tres meses después, el Real Madrid se alzó con la 35ª Liga de su historia. Con cuatro jornadas todavía por jugar, el equipo levantó el título ante su afición tras ganar al Espanyol por 4-0 con un doblete de Rodrygo y los tantos de Asensio y Benzema. Los éxitos siguieron llegando al comienzo de la temporada 2022/23 con el triunfo en la Supercopa de Europa ante el Eintracht de Frankfurt (2-0).
