@@ -3,7 +3,7 @@ layout: post
 title: Real Madrid C.F.
 subtitle: El mejor club del siglo XX
 cover-img: /assets/img/santiago-bernabeu.jpg
-thumbnail-img: /assets/img/escudo-real-madrid.png
+thumbnail-img: /assets/img/escudo-real-madrid.jpg
 share-img: /assets/img/santiago-bernabeu.jpg
 tags: [books, test]
 ---
